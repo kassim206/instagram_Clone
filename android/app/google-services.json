@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "61999112245",
+    "project_id": "g4metalab",
+    "storage_bucket": "g4metalab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61999112245:android:6bbb07b50ebecc3431117c",
+        "android_client_info": {
+          "package_name": "com.firstlogicmetalab.task3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61999112245-7d09jflh2ke4a8nbpr8jgnv2759g3iv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "d4ea42dda7746519b20bd8dfd03a80bf0f57b3dc"
+          }
+        },
+        {
+          "client_id": "61999112245-8ol5ble1fb12nhf2ahie63ack17hjbrv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "378ea2504d67077eb27cfb07743ff87265d8273c"
+          }
+        },
+        {
+          "client_id": "61999112245-aqj53uimiub7f5cngf0r7jvaievu0000.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "3d634b4082e4bb9c0aac9291db793c49e5d45d90"
+          }
+        },
+        {
+          "client_id": "61999112245-k65fimtf6n1qtncn2pm6jlr9k3a524e8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "6b20445a7cd666194857585eb6844700a3102e16"
+          }
+        },
+        {
+          "client_id": "61999112245-rjoivt29iemuu70ks2nqusriibj7ust3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "193eab41c5b41e12134f3557dcac19222f317612"
+          }
+        },
+        {
+          "client_id": "61999112245-vtt31gipppbtm5m1ckv8sb6e30t9rvho.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firstlogicmetalab.task3",
+            "certificate_hash": "a01d9851e3ab1f3e94822c2aa1972ae5055d6e3f"
+          }
+        },
+        {
+          "client_id": "61999112245-hdd74f6m2t59jmt98i70o3c6ar669lfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXhDRQLB0F7V3AW8UCfY8jVSYOiy5jZgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61999112245-f7n5atgu31ltf4tr1usduiamm51f12rm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
